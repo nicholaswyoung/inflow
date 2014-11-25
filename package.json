@@ -1,0 +1,26 @@
+{
+  "name": "inflow",
+  "version": "1.0.0",
+  "description": "A helper for InfluxDB configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/originalmachine/inflow.git"
+  },
+  "keywords": [
+    "influxdb",
+    "statistics"
+  ],
+  "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/originalmachine/inflow/issues"
+  },
+  "homepage": "https://github.com/originalmachine/inflow",
+  "dependencies": {
+    "influx": "^3.0.0"
+  }
+}
