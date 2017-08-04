@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/originalmachine/inflow",
   "dependencies": {
-    "influx": "^3.0.0"
+    "influx": "^5.0.7"
   }
 }
