@@ -1,5 +1,7 @@
 # Inflow
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholaswyoung/inflow.svg)](https://greenkeeper.io/)
+
 A simple helper for Node.js and [InfluxDB](http://influxdb.com).
 
 ## Purpose
